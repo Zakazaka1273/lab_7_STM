@@ -124,6 +124,7 @@ int main(void)
   /* Infinite loop */
   while (1)
   {
+	  /*Git Is Ready*/
 	  /* USER CODE BEGIN 3 */
 	  if (data_ready_flag == 1)
 	  {
